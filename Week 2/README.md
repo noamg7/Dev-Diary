@@ -7,4 +7,8 @@ The main challenge for me is that it does not have to have a particular order, a
 Everything!!! I love coding.
 Review:
 1. Describe the git workflow up to this point. Be specific about the order and the reason.
-enter the documents go to GDev-Lesson, mkdir creat a new folder enter the folder create a new folder within it a document. Touch server.js for java script. git add; git commit and
+git init, git add letting you know what you are saving. git commit -m lets you name what you have saved. git touch create a document ex. README.md.
+2. What is the difference between <ul> and <ol>?
+ul is unordered list meaning you will see dots. <ol> is ordered list you will see 1, 2, 3, etc.
+3. what does the <a> allow you to do with a webpage?
+<a> allows you to like to a website. For example google.com
